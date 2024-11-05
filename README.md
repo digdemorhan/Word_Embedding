@@ -3,8 +3,8 @@
 # Projenin Ana Teması
 Bu projede, ürünler üzerine yazılmış 150.000 yorumdan oluşan bir veri seti kullanılmıştır. Verisetinin eliminasyonu, preprocessing aşamaları ve bu aşamalardan sonra word embedding yöntemleri uygulanmıştır. Proje kapsamında, veri setinden rastgele seçilen 3000 yorum üzerinde ön işleme adımları uygulanarak bir word embedding modeli oluşturulmuştur.
 
-# Kullanılan Kütüphaneler ve Frameworkler
-Bu projede kullanılan kütüphaneler ve frameworkler aşağıdaki gibidir:
+# Kullanılan Kütüphaneler
+Bu projede kullanılan kütüphaneler aşağıdaki gibidir:
 <ul>
   <li><b>Pandas</b></li>
   <li><b>Numpy</b></li>
@@ -39,8 +39,8 @@ Bu projede 150.000 veriden oluşan veriseti elimine edilip 3000 veriye çekilmi�
 # Main Theme of the Project
 In this project, a dataset of 150,000 reviews on products was used. Elimination of the dataset, preprocessing steps and word embedding methods were applied after these steps. Within the scope of the project, a word embedding model was created by applying preprocessing steps on 3000 randomly selected comments from the dataset.
 
-# Libraries and Frameworks Used
-The libraries and frameworks used in this project are as follows:
+# Libraries Used
+The libraries used in this project are as follows:
 <ul>
   <li><b>Pandas</b></li>
   <li><b>Numpy</b></li>
